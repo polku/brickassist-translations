@@ -1,0 +1,1457 @@
+{
+    "welcome": "Hola",
+    "@welcome": {
+        "description": "Welcome message in HomePage"
+    },
+    "colorPaletteBtn": "Paleta de colores",
+    "@colorPaletteBtn": {
+        "description": "Color palette button in HomePage"
+    },
+    "fillerTipsBtn": "Consejos para llenar cajas",
+    "@fillerTipsBtn": {
+        "description": "Filler tips button in HomePage"
+    },
+    "lastUpdatedPabsTitle": "Últimas actualizaciones del PAB",
+    "@lastUpdatedPabsTitle": {
+        "description": "Title for last updated PAB on HomePage"
+    },
+    "faqBtn": "Preguntas frecuentes",
+    "@faqBtn": {
+        "description": "FAQ button in HomePage"
+    },
+    "homeBtnNav": "Inicio",
+    "@homeBtnNav": {
+        "description": "Home button in NavBar"
+    },
+    "inventory": "Inventario",
+    "@inventory": {
+        "description": "My stock button in NavBar"
+    },
+    "myInventory": "Mi inventario",
+    "@myInventory": {
+        "description": "My Inventory"
+    },
+    "seeMore": "Más",
+    "@seeMore": {
+        "description": "More >"
+    },
+    "pabHubBtnNav": "PAB Hub",
+    "@pabHubBtnNav": {
+        "description": "PAB Hub button in NavBar"
+    },
+    "memberSince": "Miembro desde",
+    "@memberSince": {
+        "description": "Date a member joined BrickAssist"
+    },
+    "disconnectBtn": "Cerrar sesión",
+    "@disconnectBtn": {
+        "description": "Disconnect/log out button"
+    },
+    "firstNameOrNickName": "Nombre o apodo",
+    "@firstNameOrNickName": {
+        "description": "Firstname or nickname of a user"
+    },
+    "name": "Nombre",
+    "@name": {
+        "description": "Name of a user"
+    },
+    "country": "País",
+    "@country": {
+        "description": "Country"
+    },
+    "postalCode": "Código postal",
+    "@postalCode": {
+        "description": "Postal code"
+    },
+    "termsOfUse": "Términos de uso",
+    "@termsOfUse": {
+        "description": "General terms of use for a user"
+    },
+    "deleteMyAccount": "Eliminar mi cuenta",
+    "@deleteMyAccount": {
+        "description": "Account deletion for a user"
+    },
+    "save": "Guardar",
+    "@save": {
+        "description": "Save after an action"
+    },
+    "returnAction": "Atrás",
+    "@returnAction": {
+        "description": "Return action"
+    },
+    "searchAColorEntry": "Buscar colores...",
+    "@searchAColorEntry": {
+        "description": "Search a color in entry"
+    },
+    "nameLego": "Nombre LEGO",
+    "@nameLego": {
+        "description": "LEGO name"
+    },
+    "nameBrickLink": "Nombre BrickLink",
+    "@nameBrickLink": {
+        "description": "BrickLink name"
+    },
+    "chronology": "Años de producción",
+    "@chronology": {
+        "description": "Chronology for years a color was produced"
+    },
+    "stillActive": "Estado de producción",
+    "@stillActive": {
+        "description": "Still active for a color"
+    },
+    "category": "Categoría",
+    "@category": {
+        "description": "Category for color or part"
+    },
+    "comment": "Comentario",
+    "@comment": {
+        "description": "Category for color or part"
+    },
+    "yes": "Sí",
+    "@yes": {
+        "description": "Yes"
+    },
+    "no": "No",
+    "@no": {
+        "description": "No"
+    },
+    "oldColor": "Color antiguo",
+    "@oldColor": {
+        "description": "Old color"
+    },
+    "deletedAccount": "Cuenta eliminada",
+    "@deletedAccount": {
+        "description": "After an account deletion"
+    },
+    "internalError": "Error interno",
+    "@internalError": {
+        "description": "When an internal error occur"
+    },
+    "accountUpdated": "Cuenta actualizada",
+    "@accountUpdated": {
+        "description": "Success after user account update"
+    },
+    "errorDuringUpdate": "Error durante la actualización",
+    "@errorDuringUpdate": {
+        "description": "Error after an update"
+    },
+    "errorDuringImageUpload": "Error al subir la imagen",
+    "@errorDuringImageUpload": {
+        "description": "Error during the image upload operation"
+    },
+    "reallyWantToDeleteYourAccount1": "¿De verdad quieres eliminar tu cuenta? Todos tus datos se perderán definitivamente.",
+    "@reallyWantToDeleteYourAccount1": {
+        "description": "Inform user of account deletion, part 1"
+    },
+    "reallyWantToDeleteYourAccount2": "Si es así, solo tienes que escribir 'aurevoir'",
+    "@reallyWantToDeleteYourAccount2": {
+        "description": "Inform user of account deletion, part 2"
+    },
+    "deleteAction": "Eliminar",
+    "@deleteAction": {
+        "description": "Action to delete"
+    },
+    "closeAction": "Cerrar",
+    "@closeAction": {
+        "description": "Action to close, like a window"
+    },
+    "email": "Email",
+    "@email": {
+        "description": "Email"
+    },
+    "enterEmail": "Enter your Email",
+    "@enterEmail": {
+        "description": "Enter your Email"
+    },
+    "mustEnterValidEmail": "Enter a valid email address",
+    "@mustEnterValidEmail": {
+        "description": "Message when unvalid email is entered"
+    },
+    "appUpdateIsNeeded": "To get the most of your experience, you must update this application!",
+    "@appUpdateIsNeeded": {
+        "description": "Message when App update is needed"
+    },
+    "updateAppAction": "Update App",
+    "@updateAppAction": {
+        "description": "Action to find app update in Stores"
+    },
+    "loginAction": "I Already Have an Account",
+    "@loginAction": {
+        "description": "Action to login"
+    },
+    "createAccountAction": "Create an Account",
+    "@createAccountAction": {
+        "description": "Action to create an account"
+    },
+    "tryTheDemoFirst": "I'll Take a Look First",
+    "@tryTheDemoFirst": {
+        "description": "Action to start app in demo mode"
+    },
+    "stepsFormatter": "Step {step}",
+    "@stepsFormatter": {
+        "description": "Step formatter like Step 1/2 or Step 3/3",
+        "placeholders": {
+            "step": {
+                "type": "String"
+            }
+        }
+    },
+    "optional": "(optional)",
+    "@optional": {
+        "description": "Indicate an optional value"
+    },
+    "dateOfBirth": "Date of Birth",
+    "@dateOfBirth": {
+        "description": "Date of birth"
+    },
+    "nextAction": "Next",
+    "@nextAction": {
+        "description": "Action to go Next"
+    },
+    "getVerificationCodeAction": "Receive a verification code",
+    "@getVerificationCodeAction": {
+        "description": "Action to Receive a verification code"
+    },
+    "emailProviderRefused": "A {provider} account is not authorized",
+    "@emailProviderRefused": {
+        "description": "Email provider like Yopmail are not accepted",
+        "placeholders": {
+            "provider": {
+                "type": "String"
+            }
+        }
+    },
+    "verificationCodeExplanation1": "You'll soon receive an email at:",
+    "@verificationCodeExplanation1": {
+        "description": "Code verif explanation 1"
+    },
+    "verificationCodeExplanation2": "It contains a verification code and you have 10 minutes to enter it. If you can't find it, check your spam folder.",
+    "@verificationCodeExplanation2": {
+        "description": "Code verif explanation 2"
+    },
+    "verificationCode": "Verification code:",
+    "@verificationCode": {
+        "description": "Verification code"
+    },
+    "verificationCodeError": "Incorrect or expired verification code",
+    "@verificationCodeError": {
+        "description": "Wrong verification code"
+    },
+    "myConfig": "My Configuration",
+    "@myConfig": {
+        "description": "My configuration"
+    },
+    "stockSingular": "Stock",
+    "@stockSingular": {
+        "description": "Stock"
+    },
+    "partSingular": "Part",
+    "@partSingular": {
+        "description": "An individual instance of a Part"
+    },
+    "stockPlural": "Stocks",
+    "@stockPlural": {
+        "description": "Stocks - label for the count of part type/color variants a user has"
+    },
+    "partPlural": "Parts",
+    "@partPlural": {
+        "description": "Parts - label for the total quantity of individual pieces of all type"
+    },
+    "wantedStocks": "Wanted",
+    "@wantedStocks": {
+        "description": "Stocks wanted"
+    },
+    "searchInMyStockEntry": "Search your inventory...",
+    "@searchInMyStockEntry": {
+        "description": "Search in my stock... for entry"
+    },
+    "filters": "Sort by:",
+    "@filters": {
+        "description": "Sort by:"
+    },
+    "filterByCreationDate": "Date created (default)",
+    "@filterByCreationDate": {
+        "description": "Filter by creation date"
+    },
+    "filterOnlyNeededList": "Only my needed list",
+    "@filterOnlyNeededList": {
+        "description": "Filter only needed list"
+    },
+    "filterDecreasingQuantity": "Highest quantity first",
+    "@filterDecreasingQuantity": {
+        "description": "Filter decreasing quantity"
+    },
+    "filterIncreasingQuantity": "Lowest quantity first",
+    "@filterIncreasingQuantity": {
+        "description": "Filter by increasing quantity"
+    },
+    "filterByPart": "Part",
+    "@filterByPart": {
+        "description": "Filter by part"
+    },
+    "filterByColor": "Color",
+    "@filterByColor": {
+        "description": "Filter by color"
+    },
+    "emptyStockPressToStart": "Your inventory is empty. Press the '+' icon to get started!",
+    "@emptyStockPressToStart": {
+        "description": "Welcome message when stock is empty"
+    },
+    "noResults": "No results found.",
+    "@noResults": {
+        "description": "Message when no results"
+    },
+    "createANewStock": "Add a new part",
+    "@createANewStock": {
+        "description": "Create a new stock"
+    },
+    "goToDiscordBtn": "Join Us On Discord",
+    "@goToDiscordBtn": {
+        "description": "Go to Discord button"
+    },
+    "goToFacebookBtn": "Visit Us On Facebook",
+    "@goToFacebookBtn": {
+        "description": "Go to Facebook button"
+    },
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "@frequentlyAskedQuestions": {
+        "description": "Frequently asked questions"
+    },
+    "faq1Q": "Why can't I find all the LEGO parts in the application?",
+    "@faq1Q": {
+        "description": "faq1Q"
+    },
+    "faq1A": "Not all LEGO parts are available in the app yet. We're working on improving the display and performance",
+    "@faq1A": {
+        "description": "faq1A"
+    },
+    "faq2Q": "How can I become a PAB ambassador?",
+    "@faq2Q": {
+        "description": "faq2Q"
+    },
+    "faq2A": "You just have to go to your desired PAB page and use the action to apply as an ambassador. You can apply to several PABs",
+    "@faq2A": {
+        "description": "faq2A"
+    },
+    "configUpdated": "Configuration saved",
+    "@configUpdated": {
+        "description": "Message when config was updated"
+    },
+    "cannotUpdateConfig": "Error saving configuration",
+    "@cannotUpdateConfig": {
+        "description": "Message when error during config update"
+    },
+    "config1Title": "Part Name Display",
+    "@config1Title": {
+        "description": "config1Title"
+    },
+    "config1Choice1": "Show LEGO and BrickLink names",
+    "@config1Choice1": {
+        "description": "config1Choice1"
+    },
+    "config1Choice2": "Show LEGO names only",
+    "@config1Choice2": {
+        "description": "config1Choice2"
+    },
+    "config1Choice3": "Show BrickLink names only",
+    "@config1Choice3": {
+        "description": "config1Choice3"
+    },
+    "config2Title": "Color Names Display",
+    "@config2Title": {
+        "description": "config2Title"
+    },
+    "config2Choice1": "Show LEGO and BrickLink names",
+    "@config2Choice1": {
+        "description": "config2Choice1"
+    },
+    "config2Choice2": "Show LEGO names only",
+    "@config2Choice2": {
+        "description": "config2Choice2"
+    },
+    "config2Choice3": "Show BrickLink names only",
+    "@config2Choice3": {
+        "description": "config2Choice3"
+    },
+    "youMustCreateAnAccount": "You need to create an account",
+    "@youMustCreateAnAccount": {
+        "description": "Message to inform that account creation is needed"
+    },
+    "colorSingular": "Color",
+    "@colorSingular": {
+        "description": "Color"
+    },
+    "colorPlural": "Colors",
+    "@colorPlural": {
+        "description": "Colors"
+    },
+    "yourStats": "Your stats",
+    "@yourStats": {
+        "description": "Your personal stock contains"
+    },
+    "inTheAppThereAre": "Community stats",
+    "@inTheAppThereAre": {
+        "description": "In the app there are:"
+    },
+    "noResultsFound": "No results were found",
+    "@noResultsFound": {
+        "description": "Message when No result was found"
+    },
+    "modifyAStock": "Edit a Part",
+    "@modifyAStock": {
+        "description": "Modify a stock"
+    },
+    "createAStock": "Add a Part",
+    "@createAStock": {
+        "description": "Create a stock"
+    },
+    "createStockExplanationTitle": "How does it work?",
+    "@createStockExplanationTitle": {
+        "description": "Create a stock Explanation Title"
+    },
+    "createStockExplanation1": "To find a part, use the search",
+    "@createStockExplanation1": {
+        "description": "Create a stock Explanation 1"
+    },
+    "createStockExplanation2": "Pressing ",
+    "@createStockExplanation2": {
+        "description": "Create a stock Explanation 2"
+    },
+    "createStockExplanation3": " re-uses the last part you added",
+    "@createStockExplanation3": {
+        "description": "Create a stock Explanation 3"
+    },
+    "createStockExplanation4": "To find a printed part, start by searching for its shape",
+    "@createStockExplanation4": {
+        "description": "Create a stock Explanation 4"
+    },
+    "createStockExplanation5": "Choose a part to continue",
+    "@createStockExplanation5": {
+        "description": "Create a stock Explanation 5"
+    },
+    "nowSelectTheColor": "Select a color:",
+    "@nowSelectTheColor": {
+        "description": "Ask user to select the part colored"
+    },
+    "searchPartUsingKeyword": "Search for a part:",
+    "@searchPartUsingKeyword": {
+        "description": "Ask user to search for a part"
+    },
+    "exampleForPartSearch": "e.g., '1x4', '4032', or 'plate'.",
+    "@exampleForPartSearch": {
+        "description": "Example for search a part keyword"
+    },
+    "reUseLastRecording": "Re-use the room from the last recording",
+    "@reUseLastRecording": {
+        "description": "reUse Last Part created tool tip"
+    },
+    "tips": "Tips",
+    "@tips": {
+        "description": "Tips"
+    },
+    "tipsStockInfo": "To avoid missing parts when you visit a PAB location, use the 'Add to My Wanted List' checkbox. These parts will appear in red in your inventory, and you can use a filter to find them quickly.\n\nWhen you open a PAB page, the parts you want will also be circled in red.",
+    "@tipsStockInfo": {
+        "description": "Tips Stock Info"
+    },
+    "cancelAction": "Cancel",
+    "@cancelAction": {
+        "description": "Action to cancel"
+    },
+    "warning": "Warning",
+    "@warning": {
+        "description": "Warning for user"
+    },
+    "reallyWantToDeleteStock": "Do you really want to delete this part?",
+    "@reallyWantToDeleteStock": {
+        "description": "Warning for user when stock deletion"
+    },
+    "commentAboutStock": "Notes",
+    "@commentAboutStock": {
+        "description": "Comment about this stock"
+    },
+    "commentAboutStockExample": "e.g., 'For the castle'",
+    "@commentAboutStockExample": {
+        "description": "Comment about this stock, example"
+    },
+    "locationAboutStock": "Part Location",
+    "@locationAboutStock": {
+        "description": "Stock location in user room"
+    },
+    "locationAboutStockExample": "e.g., 'Drawer B42'",
+    "@locationAboutStockExample": {
+        "description": "Stock location in user room, example"
+    },
+    "viewStock": "View Part",
+    "@viewStock": {
+        "description": "When user open stock info"
+    },
+    "initialQuantity": "Initial",
+    "@initialQuantity": {
+        "description": "Initial : XX quantity"
+    },
+    "addedQuantity": "Added",
+    "@addedQuantity": {
+        "description": "Added : XX quantity"
+    },
+    "addToSearchList": "Add to My Wanted List",
+    "@addToSearchList": {
+        "description": "Action to Add to my search list"
+    },
+    "editAdditionalInfo": "Edit Additional Information",
+    "@editAdditionalInfo": {
+        "description": "Edit additional information"
+    },
+    "addAdditionalInfo": "Add Additional Information",
+    "@addAdditionalInfo": {
+        "description": "Add additional information"
+    },
+    "lastUpdate": "Last update:",
+    "@lastUpdate": {
+        "description": "Last update:"
+    },
+    "anonymous": "Anonymous",
+    "@anonymous": {
+        "description": "Anonymous"
+    },
+    "takeInventoryOfPab": "Update PAB Inventory",
+    "@takeInventoryOfPab": {
+        "description": "Take inventory of a PAB action"
+    },
+    "mustBeAmbassador": "You must be a PAB ambassador",
+    "@mustBeAmbassador": {
+        "description": "You must be a PAB ambassador"
+    },
+    "consultPabInventory": "View PAB Inventory",
+    "@consultPabInventory": {
+        "description": "Consult a PAB's inventory"
+    },
+    "findNeededParts": "Find Parts I Want",
+    "@findNeededParts": {
+        "description": "Find the parts I'm looking for"
+    },
+    "neededPartsAreTitle": "The parts I want are:",
+    "@neededPartsAreTitle": {
+        "description": "The parts I'm looking for are:"
+    },
+    "notCompleteListBecauseDemo": "This list is not complete as you have not yet created your account",
+    "@notCompleteListBecauseDemo": {
+        "description": "Inform the user that his list is not complete because he is using demo account"
+    },
+    "pabStockQuantityPlenty": "Large Quantity",
+    "@pabStockQuantityPlenty": {
+        "description": "plenty"
+    },
+    "pabStockQuantityFewCups": "A Few Large Boxes",
+    "@pabStockQuantityFewCups": {
+        "description": "few_cups"
+    },
+    "pabStockQuantityLessOneCup": "Less Than One Large Box",
+    "@pabStockQuantityLessOneCup": {
+        "description": "less_one_cup"
+    },
+    "error": "Error",
+    "@error": {
+        "description": "Error"
+    },
+    "by": "by:",
+    "@by": {
+        "description": "Like something done 'BY' someone"
+    },
+    "youNeedThisPart": "You want this part!",
+    "@youNeedThisPart": {
+        "description": "Inform the user that he needs/is looking for this part"
+    },
+    "youHaveThatPart": "You have",
+    "@youHaveThatPart": {
+        "description": "Like, in your stock, you have XX part like this one"
+    },
+    "youDoNotHaveThatPart": "You don't have this part!",
+    "@youDoNotHaveThatPart": {
+        "description": "Like, in your stock, you don't have this part"
+    },
+    "moreThanAWeekAgo": "More than a week ago!",
+    "@moreThanAWeekAgo": {
+        "description": "Inventory done more than a week ago"
+    },
+    "waitingForPabInventory": "Awaiting inventory of this PAB",
+    "@waitingForPabInventory": {
+        "description": "Awaiting inventory of this PAB"
+    },
+    "waitingForAnAmbassador": "This PAB has no ambassador yet",
+    "@waitingForAnAmbassador": {
+        "description": "This PAB has no ambassador yet"
+    },
+    "thisPabContains": "This PAB contains:",
+    "@thisPabContains": {
+        "description": "This PAB contains :"
+    },
+    "ambassadorPabList": "PAB(s) for which you are an ambassador:",
+    "@ambassadorPabList": {
+        "description": "Show to an ambassador the list, can be male or female"
+    },
+    "pabManagement": "PAB Management",
+    "@pabManagement": {
+        "description": "PAB management page for ambassador"
+    },
+    "configuration": "Configuration",
+    "@configuration": {
+        "description": "Configuration"
+    },
+    "takeInventory": "Take Inventory",
+    "@takeInventory": {
+        "description": "Take inventory"
+    },
+    "seeContent": "See Content",
+    "@seeContent": {
+        "description": "See the content of a PAB"
+    },
+    "exportContent": "Export Content",
+    "@exportContent": {
+        "description": "Export the content of a PAB"
+    },
+    "stopBeingAmbassador": "Stop being Ambassador",
+    "@stopBeingAmbassador": {
+        "description": "Action to stop my ambassador role"
+    },
+    "stopBeingAmbassadorConfirmation": "Are you sure you no longer want to be an ambassador for this PAB?",
+    "@stopBeingAmbassadorConfirmation": {
+        "description": "Ask for confirmation"
+    },
+    "pabConfiguration": "PAB Configuration",
+    "@pabConfiguration": {
+        "description": "PAB configuration"
+    },
+    "howManyLinesInPab": "How many spots high is the PAB?",
+    "@howManyLinesInPab": {
+        "description": "How many spots high is the PAB"
+    },
+    "howManyColumnsInPab": "How many spots wide is the PAB?",
+    "@howManyColumnsInPab": {
+        "description": "How many spots wide is the PAB"
+    },
+    "exportSaved": "Export saved in your images.",
+    "@exportSaved": {
+        "description": "Success message after export"
+    },
+    "exportError": "Error: cannot save the export.",
+    "@exportError": {
+        "description": "Error message after export"
+    },
+    "exportExplanation1": "Once you've finished recording the inventory of a PAB, you can export its content as an image to post on social networks.",
+    "@exportExplanation1": {
+        "description": "exportExplanation1"
+    },
+    "exportExplanation2": "The application will make an image containing all the parts in the PAB.",
+    "@exportExplanation2": {
+        "description": "exportExplanation2"
+    },
+    "exportExplanation3": "Once you've downloaded it, you can simply post the image.",
+    "@exportExplanation3": {
+        "description": "exportExplanation3"
+    },
+    "exportWarning": "It can happen that the export is entirely black. Simply relaunch the export.",
+    "@exportWarning": {
+        "description": "exportWarning"
+    },
+    "takeInventoryIntroduction1": "You're about to take inventory of this PAB.",
+    "@takeInventoryIntroduction1": {
+        "description": "takeInventoryIntroduction1"
+    },
+    "takeInventoryIntroduction2": "Based on the configuration you made earlier, each drawer is assigned a reference in the manner of an Excel table cell. Each column becomes a letter and each row becomes a number.",
+    "@takeInventoryIntroduction2": {
+        "description": "takeInventoryIntroduction2"
+    },
+    "takeInventoryExplanationWallTypeStraight1": "The application will help you fill in the inventory from top to bottom and from left to right. Example A1 then A2, then A3, then B1, then B2, etc...",
+    "@takeInventoryExplanationWallTypeStraight1": {
+        "description": "takeInventoryExplanationWallTypeStraight1"
+    },
+    "takeInventoryExplanationWallTypeStaggered1": "According to the current configuration, this wall is of the staggered type. This type of wall is the most complex for taking inventory. After many discussions, the community agreed on the following approach:",
+    "@takeInventoryExplanationWallTypeStaggered1": {
+        "description": "takeInventoryExplanationWallTypeStaggered1"
+    },
+    "takeInventoryExplanationWallTypeStaggered2": "The simplest method is to take the inventory in a zigzag pattern, always starting from a spot in the top left, whether it exists or is imaginary. Then, move downward. You start from the top-left position and move diagonally down to the spot directly below, to the right. For the next row, you continue moving diagonally, but this time downward to the left.",
+    "takeInventoryEndExplanation1": "After that, simply move to the next column by shifting to the right, as usual, until you reach the end of the wall.",
+    "@takeInventoryEndExplanation2": {
+        "description": "takeInventoryEndExplanation2"
+    },
+    "takeInventoryEndExplanation2": "The first inventory will take some time, as there's so much to create.",
+    "iAmReady": "I'm Ready",
+    "@iAmReady": {
+        "description": "'I am ready' button"
+    },
+    "leaveTakeInventory": "Leave Inventory",
+    "@leaveTakeInventory": {
+        "description": "Leave the page"
+    },
+    "atLastInventory": "At last inventory, this slot contained:",
+    "@atLastInventory": {
+        "description": "Explain the previous slot content"
+    },
+    "takeInventoryNoPreviousData": "No previous data for this slot may mean that no inventory has ever been taken, or it may mean that the slot is inaccessible, empty or contains a part unknown to the application.",
+    "@takeInventoryNoPreviousData": {
+        "description": "Explain the previous slot content"
+    },
+    "takeInventoryUpdateQuantity": "Update Quantity",
+    "@takeInventoryUpdateQuantity": {
+        "description": "Update quantity:"
+    },
+    "takeInventoryDidPartChange": "Did the part change?",
+    "@takeInventoryDidPartChange": {
+        "description": "Did the part change?"
+    },
+    "takeInventorySlotXXHasChanged": "Slot {slot} changed? What does it contain now?",
+    "@takeInventorySlotXXHasChanged": {
+        "description": "Slot XX changed? What does it contain now?",
+        "placeholders": {
+            "slot": {
+                "type": "String"
+            }
+        }
+    },
+    "takeInventoryCannotFindPart": "I Couldn't Find the Part",
+    "@takeInventoryCannotFindPart": {
+        "description": "I couldn't find the part in the list"
+    },
+    "takeInventoryInaccessibleOrEmpty": "Slot Inaccessible or Empty",
+    "@takeInventoryInaccessibleOrEmpty": {
+        "description": "Slot inaccessible or empty"
+    },
+    "takeInventoryContainsAPart": "Contains a Part",
+    "@takeInventoryContainsAPart": {
+        "description": "Contains a part"
+    },
+    "validateAction": "Validate",
+    "@validateAction": {
+        "description": "Not now"
+    },
+    "notNowAction": "Not Now",
+    "startMyStockEndOfDemo": "To start creating your inventory, you'll need to create an account.\nYou'll be able to add parts by choosing their color, modify the quantity of your stock, add them to your wanted list, etc...",
+    "@startMyStockEndOfDemo": {
+        "description": "Message for user when he want to create his personal stock, end of free account"
+    },
+    "colorIsActive": "Active",
+    "@colorIsActive": {
+        "description": "Active colors are still produced"
+    },
+    "allTips": "All Tips",
+    "@allTips": {
+        "description": "All tips title"
+    },
+    "tipForThisPart": "Tip for this part:",
+    "@tipForThisPart": {
+        "description": "Tip for this part:"
+    },
+    "unit": "unit",
+    "@unit": {
+        "description": "To describe a unit like 1€/unit"
+    },
+    "unitShort": "u",
+    "@unitShort": {
+        "description": "The short version like 1€/u"
+    },
+    "minuteShort": "min",
+    "@minuteShort": {
+        "description": "like 5 min"
+    },
+    "optimizationProposedBy": "Optimization proposed by:",
+    "@optimizationProposedBy": {
+        "description": "Optimization proposed by:"
+    },
+    "discoverTheTip": "Discover the tip",
+    "@discoverTheTip": {
+        "description": "Discover the tip"
+    },
+    "largeBox": "Large\nBox",
+    "@largeBox": {
+        "description": "Large Box"
+    },
+    "smallBox": "Small\nBox",
+    "@smallBox": {
+        "description": "Small Box"
+    },
+    "largeCup": "Large\nCup",
+    "@largeCup": {
+        "description": "Large Cup"
+    },
+    "smallCup": "Small\nCup",
+    "@smallCup": {
+        "description": "Small Cup"
+    },
+    "lessThan": "Less than",
+    "@lessThan": {
+        "description": "Less than..."
+    },
+    "allColorsEndOfDemo": "To access all known colors, you need to create an account.\nYou can search for colors by name, find out about their history and compare them with your own part very easily, simply by placing the part on your screen.",
+    "@allColorsEndOfDemo": {
+        "description": "Restriction for All Colors when user is in Demo"
+    },
+    "fillerTipsEndOfDemo": "To access all the filling tips, you need to create an account.\nWhen you visit a PAB, you'll learn the best ways to arrange the parts in the boxes. It's all explained with pictures. You'll love it!",
+    "@fillerTipsEndOfDemo": {
+        "description": "Restriction for Filler Tips when user is in Demo"
+    },
+    "allStatsEndOfDemo": "To access all the statistics you need to create an account.\nYou'll discover interesting data linked to your stock and that of other users of the application.",
+    "@allStatsEndOfDemo": {
+        "description": "Restriction for All stats when user is in Demo"
+    },
+    "watchPabEndOfDemo": "To add this PAB to your favorites, you need to create an account. You'll be able to use your list of favorite PAB to find the parts you're looking for quickly and easily.",
+    "@watchPabEndOfDemo": {
+        "description": "Restriction for Add PAB to favorites"
+    },
+    "justNow": "just now",
+    "@justNow": {
+        "description": "Just now indication, all lowercase"
+    },
+    "minAgo": "{count} min ago",
+    "@minAgo": {
+        "description": "XXmin ago",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "hourAgo": "{count}h ago",
+    "@hourAgo": {
+        "description": "XXh ago",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "dayAgo": "{count}d ago",
+    "@dayAgo": {
+        "description": "XXd ago",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "blockedAccount": "Blocked account",
+    "@blockedAccount": {
+        "description": "When an account is blocked"
+    },
+    "listedParts": "parts listed",
+    "@listedParts": {
+        "description": "XXX listed parts"
+    },
+    "listedColors": "colors listed",
+    "@listedColors": {
+        "description": "XXX listed colors"
+    },
+    "users": "users",
+    "@users": {
+        "description": "users"
+    },
+    "stocksIncludingAllUsers": "user stocks",
+    "@stocksIncludingAllUsers": {
+        "description": "XXX Stocks (including all users)"
+    },
+    "partsIncludingAllStocks": "parts in inventories",
+    "@partsIncludingAllStocks": {
+        "description": "XXX Parts (including all stocks)"
+    },
+    "official": "Official",
+    "@official": {
+        "description": "Official, like for Stores"
+    },
+    "officialStore": "Official Store",
+    "@officialStore": {
+        "description": "Official store"
+    },
+    "certified": "Certified",
+    "@certified": {
+        "description": "Certified, like for Stores"
+    },
+    "certifiedStore": "Certified Store",
+    "@certifiedStore": {
+        "description": "Certified store"
+    },
+    "independent": "Independent",
+    "@independent": {
+        "description": "Independent, like for Stores"
+    },
+    "independentStore": "Independent Store",
+    "@independentStore": {
+        "description": "Independent store"
+    },
+    "becomeAmbassador": "Become an Ambassador",
+    "@becomeAmbassador": {
+        "description": "Become an ambassador"
+    },
+    "ambassadorPageTitle": "What is an Ambassador?",
+    "@ambassadorPageTitle": {
+        "description": "What is an ambassador?"
+    },
+    "ambassadorExplanation1": "An ambassador is a person responsible for the inventory of a PAB.",
+    "@ambassadorExplanation1": {
+        "description": "ambassadorExplanation1"
+    },
+    "ambassadorExplanation2": "It's voluntary, there's no contract, and you can stop at any time.",
+    "@ambassadorExplanation2": {
+        "description": "ambassadorExplanation2"
+    },
+    "ambassadorExplanation3": "As an ambassador, you should visit a PAB location on a regular basis, if possible. If visit a location at least once every six weeks, this role is for you!",
+    "@ambassadorExplanation3": {
+        "description": "ambassadorExplanation3"
+    },
+    "ambassadorExplanation4": "Ambassadors play a very important role in the application. Without their precision, dedication, and passion, the PAB content in the BrickAssist application would be worthless!",
+    "@ambassadorExplanation4": {
+        "description": "ambassadorExplanation4"
+    },
+    "ambassadorExplanation5": "Users need accurate and regular updates to know whether they should visit a store or place an order.",
+    "@ambassadorExplanation5": {
+        "description": "ambassadorExplanation5"
+    },
+    "ambassadorExplanation6": "Someone can be an ambassador for several PAB locations, and a PAB can also have several ambassadors.",
+    "@ambassadorExplanation6": {
+        "description": "ambassadorExplanation6"
+    },
+    "ambassadorExplanation7": "Would you like to become a BrickAssist ambassador?",
+    "@ambassadorExplanation7": {
+        "description": "ambassadorExplanation7"
+    },
+    "ambassador": "ambassador",
+    "@ambassador": {
+        "description": "1 ambassador"
+    },
+    "ambassadors": "ambassadors",
+    "@ambassadors": {
+        "description": "22 ambassadors"
+    },
+    "fan": "fan",
+    "@pabFan": {
+        "description": "1 fan"
+    },
+    "fans": "fans",
+    "@pabFans": {
+        "description": "22 fans"
+    },
+    "yourFavoritePABs": "Your favorite PAB:",
+    "@yourFavoritePABs": {
+        "description": "On top of the favorite PAB list"
+    },
+    "youHaveToAddPABToFavourites": "To search for a part, start by adding at least one PAB location to your favorites!",
+    "@youHaveToAddPABToFavourites": {
+        "description": "When user don't have at least one PAB in his favourites"
+    },
+    "youHaveToMarkANeededPart": "You have no parts on your wanted list!\n\nTo mark a part as wanted, you must have at least one part in your inventory with 'Add to My Wanted List' checked.",
+    "@youHaveToMarkANeededPart": {
+        "description": "When user didn't at least one part in his search list"
+    },
+    "youDoNotHaveAnyMatch": "No parts you want currently appear in your favorite PAB locations.\nTry your luck at their next update!",
+    "@youDoNotHaveAnyMatch": {
+        "description": "When user doesn't have any match"
+    },
+    "whereToFindWhatImLookingFor": "Locations With Parts You Want",
+    "@whereToFindWhatImLookingFor": {
+        "description": "Title on top of the matches"
+    },
+    "amongYourXFavoritePABs": "Among your {count} favorite PAB",
+    "@amongYourXFavoritePABs": {
+        "description": "To complete the Matches title",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "pabDoNotHaveCoverPhoto": "This Store doesn't have its cover photo!\nYou can send us a photo in the Configuration area! Thanks in advance!",
+    "@pabDoNotHaveCoverPhoto": {
+        "description": "Inform the user that the PAB do not have a cover image."
+    },
+    "pabNeedsConfiguration": "This PAB needs you to update its configuration",
+    "@pabNeedsConfiguration": {
+        "description": "Inform the user that the PAB needs a configuration."
+    },
+    "pabNoCoverImage": "No Cover Image",
+    "@pabNoCoverImage": {
+        "description": "No cover image"
+    },
+    "pabEditImage": "Edit Image",
+    "@pabEditImage": {
+        "description": "Edit image"
+    },
+    "pabNotFound": "PAB not found.",
+    "@pabNotFound": {
+        "description": "The PAB is not found"
+    },
+    "pabNoMoreWatched": "This PAB is no longer in your favorites.",
+    "@pabNoMoreWatched": {
+        "description": "The user removed the PAB in his favorite list"
+    },
+    "pabAlreadyWatched": "You already have this PAB as a favorite.",
+    "@pabAlreadyWatched": {
+        "description": "The user favorite list already contain this PAB"
+    },
+    "pabMaxWatchedList": "You've reached your limit of favorites.",
+    "@pabMaxWatchedList": {
+        "description": "The user favorite list is now full (only for free account)"
+    },
+    "pabNowWatched": "You've added this PAB to your favorites.",
+    "@pabNowWatched": {
+        "description": "The user just added a new PAB to his favorites"
+    },
+    "ok": "OK",
+    "@ok": {
+        "description": "A simple 'OK' to validate an action"
+    },
+    "changeCoverImage": "Change the Cover Image",
+    "@changeCoverImage": {
+        "description": "Action to change/update the cover image of a PAB"
+    },
+    "pabCoverImageWarningMessage1": "- The PAB cover image must be in landscape orientation.",
+    "@pabCoverImageWarningMessage1": {
+        "description": "Inform the user"
+    },
+    "pabCoverImageWarningMessage2": "- To respect everyone's rights, no faces should be visible in the photo.",
+    "@pabCoverImageWarningMessage2": {
+        "description": "Inform the user"
+    },
+    "pabCoverImageWarningMessage3": "- I know it's tricky, but... the Danish brand's red square must NOT appear in the photo. They haven't authorized us to do it yet :)",
+    "@pabCoverImageWarningMessage3": {
+        "description": "Inform the user"
+    },
+    "pabCoverImageExplainGoal": "The aim of this image is to represent the shop as well as possible. It can contain just the PAB wall or the entire shop.",
+    "@pabCoverImageExplainGoal": {
+        "description": "Inform the user"
+    },
+    "chooseAPicture": "Choose a Picture",
+    "@chooseAPicture": {
+        "description": "Action to choose a picture in user device"
+    },
+    "takeAPicture": "Take a Picture",
+    "@takeAPicture": {
+        "description": "Action to take a picture with user device, using camera"
+    },
+    "cropping": "Crop",
+    "@cropping": {
+        "description": "Action to crop a picture"
+    },
+    "imageNowIntoModeration": "The image has been submitted for approval.",
+    "@imageNowIntoModeration": {
+        "description": "Inform the user"
+    },
+    "pabCoverImageWillAppearAfterModeration": "If it is approved, it will appear on the PAB page.",
+    "@pabCoverImageWillAppearAfterModeration": {
+        "description": "Inform the user"
+    },
+    "thankYou": "Thank you!",
+    "@thankYou": {
+        "description": "Thanks the user"
+    },
+    "partCategoryId0": "All",
+    "@partCategoryId0": {
+        "description": "Name of the part category 0 (all parts)"
+    },
+    "partCategoryId1": "Baseplates",
+    "@partCategoryId1": {
+        "description": "Name of the part category 1"
+    },
+    "partCategoryId2": "Bricks",
+    "@partCategoryId2": {
+        "description": "Name of the part category 2"
+    },
+    "partCategoryId3": "Plates",
+    "@partCategoryId3": {
+        "description": "Name of the part category 3"
+    },
+    "partCategoryId4": "Tiles",
+    "@partCategoryId4": {
+        "description": "Name of the part category 4"
+    },
+    "partCategoryId5": "Animals",
+    "@partCategoryId5": {
+        "description": "Name of the part category 5"
+    },
+    "partCategoryId6": "Plants",
+    "@partCategoryId6": {
+        "description": "Name of the part category 6"
+    },
+    "partCategoryId7": "Rocks",
+    "@partCategoryId7": {
+        "description": "Name of the part category 7"
+    },
+    "partCategoryId8": "Windows & Doors",
+    "@partCategoryId8": {
+        "description": "Name of the part category 8"
+    },
+    "partCategoryId9": "Panels",
+    "@partCategoryId9": {
+        "description": "Name of the part category 9"
+    },
+    "partCategoryId10": "Technic",
+    "@partCategoryId10": {
+        "description": "Name of the part category 10"
+    },
+    "partCategoryOthers": "Others",
+    "@partCategoryOthers": {
+        "description": "Name of the part category 'others'"
+    },
+    "takePartProjectTranslationsTitle": "Translations",
+    "@takePartProjectTranslationsTitle": {
+        "description": "Translations title"
+    },
+    "takePartProjectTranslationsText": "We value your feedback! We are constantly striving to improve our translations and make adjustments based on your input.\n\nIf you notice any errors or have suggestions for improvements, please let us know. Additionally, we are looking to expand our language offerings.\n\nIf you're interested in contributing by correcting existing translations or adding new ones, you can do so by visiting our public project on GitHub dedicated to translations.",
+    "@takePartProjectTranslationsText": {
+        "description": "Take Part in Project Translations Text"
+    },
+    "goToGitHubBtn": "Translations On GitHub",
+    "@goToGitHubBtn": {
+        "description": "Go to Github button"
+    },
+    "partRendersTitle": "Part renders",
+    "@partRendersTitle": {
+        "description": "partRendersTitle title"
+    },
+    "partRendersText": "Some of the realistic and high-quality part renders we offer are made possible thanks to the amazing LDRAW project. This free and community-driven initiative relies on passionate contributors who create and share digital models of bricks.\n\nWe highly encourage you to explore LDRAW, an essential resource for all building enthusiasts.",
+    "@partRendersText": {
+        "description": "partRendersTitle Text"
+    },
+    "goToLDrawBtn": "Visit LDRAW project",
+    "@goToLDraw": {
+        "description": "Go to LDraw button"
+    },
+    "popularPABPartsColored": "Popular parts in PAB",
+    "@popularPABPartsColored": {
+        "description": "The list of popular parts"
+    },
+    "partColoredOpaque": "Opaque",
+    "@partColoredOpaque": {
+        "description": "Part colored with an opaque color"
+    },
+    "partColoredTransparent": "Transparent",
+    "@partColoredTransparent": {
+        "description": "Part colored with a transparent color"
+    },
+    "partColoredPrinted": "Printed",
+    "@partColoredPrinted": {
+        "description": "Part colored printed"
+    },
+    "partColoredOld": "Old",
+    "@partColoredOld": {
+        "description": "Part colored with old color"
+    },
+    "searchAPab": "Search a PAB",
+    "@searchAPab": {
+        "description": "Action to search a PAB"
+    },
+    "or": "or",
+    "@or": {
+        "description": "Do this OR do that"
+    },
+    "usersByCountry": "Users by country",
+    "@usersByCountry": {
+        "description": "Give a list of users by country"
+    },
+    "describeWallConfiguration": "What is the wall configuration?",
+    "@describeWallConfiguration": {
+        "description": "Title to ask the user to give the wall type of the PAB"
+    },
+    "slotsStraight": "The slots are straight",
+    "@slotsStraight": {
+        "description": "A wall type"
+    },
+    "slotsStaggered": "The slots are staggered",
+    "@slotsStaggered": {
+        "description": "A wall type"
+    },
+    "slotsStraightConfigExplanation": "In this example, the PAB wall is 4 spots wide and 5 spots high.",
+    "@slotsStraightConfigExplanation": {
+        "description": "A wall type, explanation during config"
+    },
+    "slotsStaggeredConfigExplanation": "In these two examples, you can see a staggered PAB wall: in the first image, the first row has more spots wide than the second, while in the second image, the first row has fewer spots wide than the second. However, in both examples, the wall is 4 spots wide and 5 spots high.",
+    "@slotsStaggeredConfigExplanation": {
+        "description": "A wall type, explanation during config"
+    },
+    "pabAmbassadorComment": "Comments between Ambassadors:",
+    "@pabAmbassadorComment": {
+        "description": "PAB comments between Ambassadors"
+    },
+    "pabAmbassadorCommentHint": "If you want to share information or instructions among yourselves...",
+    "@pabAmbassadorCommentHint": {
+        "description": "PAB comments between Ambassadors hint text"
+    },
+    "workshop": "Workshop",
+    "@workshop": {
+        "description": "Workshop"
+    },
+    "workshopSearchHintText": "Search your workshop...",
+    "@workshopSearchHintText": {
+        "description": "Message to search element in my workshop"
+    },
+    "workshopAddBundle": "Add an element to my workshop",
+    "@workshopAddBundle": {
+        "description": "Add an element to my workshop"
+    },
+    "seeAllBundles": "See all",
+    "@seeAllBundles": {
+        "description": "List all bundles"
+    },
+    "createABundle": "Create a MOC",
+    "@createABundle": {
+        "description": "Action to create a bundle"
+    },
+    "emptyWorkshop": "Your workshop is empty. Press the '+' icon to get started!",
+    "@emptyWorkshop": {
+        "description": "Welcome message when user's workshop is empty"
+    },
+    "minifigure": "Minifigure",
+    "@minifigure": {
+        "description": "Minifigure"
+    },
+    "minifigures": "Minifigures",
+    "@minifigures": {
+        "description": "Minifigure in plural"
+    },
+    "officialSet": "Official set",
+    "@officialSet": {
+        "description": "Official set"
+    },
+    "officialSets": "Official sets",
+    "@officialSets": {
+        "description": "Official set in plural"
+    },
+    "moc": "MOC",
+    "@moc": {
+        "description": "MOC"
+    },
+    "mocs": "MOCs",
+    "@mocs": {
+        "description": "MOC in plural"
+    },
+    "createdBy": "created by",
+    "@createdBy": {
+        "description": "example: 'MOC created by XXX'"
+    },
+    "viewPartsList": "View the list of parts",
+    "@viewPartsList": {
+        "description": "See the list of all parts in a Bundle for example"
+    },
+    "description": "Description:",
+    "@description": {
+        "description": "Description: bla bla"
+    },
+    "addToWorkshop": "Add to my workshop",
+    "@addToWorkshop": {
+        "description": "Action to add a build to my Workshop"
+    },
+    "addedToWorkshop": "Added to my workshop!",
+    "@addedToWorkshop": {
+        "description": "Validation of the action to add a build to my Workshop"
+    },
+    "removeFromWorkshop": "Remove from my workshop",
+    "@removeFromWorkshop": {
+        "description": "Action to remove a build from my Workshop"
+    },
+    "removedFromWorkshop": "Removed from my workshop!",
+    "@removedFromWorkshop": {
+        "description": "Validation of the action to remove a build from my Workshop"
+    },
+    "deleteBundle": "Delete this bundle",
+    "@deleteBundle": {
+        "description": "Action to delete this bundle"
+    },
+    "deletedBundle": "Bundle deleted!",
+    "@deletedBundle": {
+        "description": "Success message after bundle deletion"
+    },
+    "versionNumber": "Version number:",
+    "@versionNumber": {
+        "description": "Version of the bundle, from 1 to infinite"
+    },
+    "modificationDate": "Modified on:",
+    "@modificationDate": {
+        "description": "Modified on: 0000/00/00"
+    },
+    "creationDate": "Creation date:",
+    "@modifiedOn": {
+        "description": "Creation date: 0000/00/00"
+    },
+    "identifier": "BrickAssist Identifier:",
+    "@identifier": {
+        "description": "Identifier: 444444"
+    },
+    "copied": "Copied!",
+    "@copied": {
+        "description": "Copied!"
+    },
+    "statusInProgress": "In progress",
+    "@statusInProgress": {
+        "description": "Status: In progress"
+    },
+    "weightAllUsersPartInventories": "of bricks in inventories",
+    "@weightAllUsersPartInventories": {
+        "description": "Weight of all users part inventories"
+    },
+    "weightUserPartInventory": "Inv. Weight ({unity})",
+    "@weightUserPartInventory": {
+        "description": "Weight of user's inventory",
+        "placeholders": {
+            "unity": {
+                "type": "String"
+            }
+        }
+    },
+    "weightOfPart": "Weight of the part",
+    "@weightOfPart": {
+        "description": "Weight of a specific part"
+    },
+    "weightOfStock": "Weight of this stock",
+    "@weightOfStock": {
+        "description": "Weight of user's stock (stock of a same part)"
+    },
+    "pabInventoryTipSlideCard": "Tip:\nCards can be freely scrolled to the left or right, allowing you to quickly move from one spot on the wall to another without having to modify all the content.",
+    "@pabInventoryTipSlideCard": {
+        "description": "Give tip to ambassador"
+    },
+    "pabInventoryTipMovement": "Explanation:\nWhy do we take inventory from top to bottom instead of from left to right? The community has already tested this: when there are a lot of people in front of the wall, like children for example, it's easier to stay in one place and move your head up and down, rather than constantly moving from left to right.",
+    "@pabInventoryTipMovement": {
+        "description": "Give explanation to ambassador"
+    },
+    "pabExportTip": "The exported render is not intended to faithfully reproduce the layout of the wall but rather to present its content clearly. It is designed to inform users who do not yet have the BrickAssist app. The parts are sorted by color to allow for quick and intuitive identification.",
+    "@pabExportTip": {
+        "description": "Give explanation to ambassador before PAB export"
+    },
+    "views": "views",
+    "@views": {
+        "description": "e.g: 55 views"
+    },
+    "view": "view",
+    "@view": {
+        "description": "e.g: 1 view"
+    },
+    "unitDayShort": "d",
+    "@unitDayShort": {
+        "description": "e.g: 31d -> 31 days"
+    },
+    "myCreations": "My creations",
+    "@myCreations": {
+        "description": "My creations, e.g: All my Created Bundles"
+    },
+    "adminAccount": "Admin Account",
+    "@adminAccount": {
+        "description": "Admin Account"
+    },
+    "premiumAccount": "BrickAssist Premium",
+    "@premiumAccount": {
+        "description": "BrickAssist Premium"
+    },
+    "general": "General",
+    "@general": {
+        "description": "General"
+    },
+    "myData": "My Data",
+    "@myData": {
+        "description": "My Data"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings"
+    },
+    "statistics": "Statistics",
+    "@statistics": {
+        "description": "Statistics"
+    },
+    "links": "Links",
+    "@links": {
+        "description": "Links"
+    },
+    "visitBAWebSite": "Visit website",
+    "@visitBAWebSite": {
+        "description": "Visit BrickAssist website"
+    },
+    "partRenders": "Part Renders",
+    "@partRenders": {
+        "description": "Part Renders"
+    },
+    "rateBrickAssist": "Rate BrickAssist",
+    "@rateBrickAssist": {
+        "description": "Rate BrickAssist"
+    },
+    "participateTranslations": "Participate in translations",
+    "@improveTranslations": {
+        "description": "Participate in translations"
+    },
+    "followUs": "Follow us",
+    "@followUs": {
+        "description": "Follow us"
+    },
+    "versionBrickAssist": "BrickAssist",
+    "@versionBrickAssist": {
+        "description": "BrickAssist v000"
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "Profile"
+    },
+    "imageModeration": "Image Moderation",
+    "@imageModeration": {
+        "description": "Image Moderation"
+    },
+    "possibleActions": "Possible Actions",
+    "@possibleActions": {
+        "description": "Possible Actions"
+    },
+    "nothingToModerate": "Nothing to moderate!",
+    "@nothingToModerate": {
+        "description": "Nothing To moderate"
+    },
+    "ambassadorRequests": "Ambassador Requests",
+    "@AmbassadorRequests": {
+        "description": "To access to all pending Ambassador Requests"
+    },
+    "ambassadorRequest": "Ambassador Request",
+    "@AmbassadorRequest": {
+        "description": "Ambassador Request"
+    },
+    "ambassadorRequestLimitReached": "You have reached the limit of PABs you can apply to! If you kindly contact an admin, we can help you. Remember to bring candies!",
+    "@ambassadorRequestLimitReached": {
+        "ambassadorRequestLimitReached": "Inform the user that he have reached the ambassador requests limit"
+    },
+    "ambassadorRequestPendingModeration": "Your request to become an ambassador for this PAB will be processed by our admins, it's only a matter of time!",
+    "@ambassadorRequestPendingModeration": {
+        "description": "Explain to user that his ambassador request is pending moderation"
+    },
+    "becomeAmbassadorForThisPab": "Become Ambassador for this PAB",
+    "@becomeAmbassadorForThisPab": {
+        "description": "Action to send a request to become ambassador"
+    },
+    "iAcceptMyMission": "I accept my mission!",
+    "@iAcceptMyMission": {
+        "description": "I accept my mission!"
+    },
+    "forIndefinitePeriod": "For an indefinite period",
+    "@forIndefinitePeriod": {
+        "description": "For an indefinite period"
+    },
+    "howManyDays": "How many days?",
+    "@howManyDays": {
+        "description": "How many days?"
+    },
+    "featureEndOfDemo": "To use this feature, you need to create an account",
+    "@featureEndOfDemo": {
+        "description": "General end of demo message"
+    },
+    "duration": "Duration",
+    "@duration": {
+        "description": "Duration"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language"
+    },
+    "commentIfRefused": "Comment if refused",
+    "@commentIfRefused": {
+        "description": "Comment if refused"
+    },
+    "accept": "Accept",
+    "@accept": {
+        "description": "Action to accept something"
+    },
+    "refuse": "Refuse",
+    "@refuse": {
+        "description": "Action to refuse something"
+    }
+}
